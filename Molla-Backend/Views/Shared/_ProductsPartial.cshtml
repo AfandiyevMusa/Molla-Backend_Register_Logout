@@ -1,0 +1,111 @@
+﻿@model IEnumerable<Product>
+
+@{
+    string searchT = null;
+
+    if (TempData["categoryName"] != null)
+    {
+        searchT = TempData["categoryName"].ToString();
+    }
+}
+
+@if (searchT is null)
+{
+    @foreach (var eachFeatured in Model)
+    {
+        <div class="each-cards">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="left">
+                            <img src="~/assets/imgs/Home/@eachFeatured.Images.Where(m=>m.IsMain).FirstOrDefault().Image" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-last">
+                        <div class="middle">
+                            <span>@eachFeatured.Features</span>
+                            <h6>@eachFeatured.Name</h6>
+                            <p>
+                                @eachFeatured.Features
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-6 order-md-last order-lg-last">
+                        <div class="right">
+                            <span>$55.00</span>
+                            <div class="stars">
+                                <i class="fa-solid fa-star" style="color: #fcb941;"></i>
+                                <i class="fa-solid fa-star" style="color: #fcb941;"></i>
+                                <i class="fa-solid fa-star" style="color: #fcb941;"></i>
+                                <i class="fa-solid fa-star" style="color: #cccccc;"></i>
+                                <i class="fa-solid fa-star" style="color: #cccccc;"></i>
+                                <p class="reviews">( @eachFeatured.SalesCount Reviews )</p>
+                            </div>
+                            <div class="icons">
+                                <div class="left-icon">
+                                    <i class="fa-solid fa-binoculars"></i>
+                                    <span>quick view</span>
+                                </div>
+                                <div class="right-icon">
+                                    <i class="fa-regular fa-heart"></i>
+                                    <span>wishlist</span>
+                                </div>
+                            </div>
+                            <button><i class="fa-solid fa-cart-plus"></i>Add to cart</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    @foreach (var eachFeatured in Model.Where(m => m.Features.Contains(searchT)))
+    {
+        <div class="each-cards">
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 col-lg-3">
+                        <div class="left">
+                            <img src="~/assets/imgs/Home/@eachFeatured.Images.Where(m=>m.IsMain).FirstOrDefault().Image" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 order-last">
+                        <div class="middle">
+                            <span>@eachFeatured.Features</span>
+                            <h6>@eachFeatured.Name</h6>
+                            <p>
+                                @eachFeatured.Features
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-6 order-md-last order-lg-last">
+                        <div class="right">
+                            <span>$55.00</span>
+                            <div class="stars">
+                                <i class="fa-solid fa-star" style="color: #fcb941;"></i>
+                                <i class="fa-solid fa-star" style="color: #fcb941;"></i>
+                                <i class="fa-solid fa-star" style="color: #fcb941;"></i>
+                                <i class="fa-solid fa-star" style="color: #cccccc;"></i>
+                                <i class="fa-solid fa-star" style="color: #cccccc;"></i>
+                                <p class="reviews">( @eachFeatured.SalesCount Reviews )</p>
+                            </div>
+                            <div class="icons">
+                                <div class="left-icon">
+                                    <i class="fa-solid fa-binoculars"></i>
+                                    <span>quick view</span>
+                                </div>
+                                <div class="right-icon">
+                                    <i class="fa-regular fa-heart"></i>
+                                    <span>wishlist</span>
+                                </div>
+                            </div>
+                            <button><i class="fa-solid fa-cart-plus"></i>Add to cart</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}

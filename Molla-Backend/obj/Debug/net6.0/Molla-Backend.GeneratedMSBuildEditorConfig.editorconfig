@@ -1,0 +1,177 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Molla_Backend
+build_property.RootNamespace = Molla_Backend
+build_property.ProjectDir = /Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Blog/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/BlogImage/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZ0ltYWdlL0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/BlogImage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZ0ltYWdlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/BrandsImage/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmRzSW1hZ2UvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/BrandsImage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmRzSW1hZ2UvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/BrandsInfo/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmRzSW5mby9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/BrandsInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQnJhbmRzSW5mby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/CustomerImpression/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJJbXByZXNzaW9uL0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/CustomerImpression/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXJJbXByZXNzaW9uL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Icon/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSWNvbi9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Icon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSWNvbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/ShopProduct/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hvcFByb2R1Y3QvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/ShopProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hvcFByb2R1Y3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2xpZGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/TeamMember/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhbU1lbWJlci9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/TeamMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVGVhbU1lbWJlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/TopSellingProduct/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVG9wU2VsbGluZ1Byb2R1Y3QvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/TopSellingProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVG9wU2VsbGluZ1Byb2R1Y3QvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/TrendingProduct/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVHJlbmRpbmdQcm9kdWN0L0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/TrendingProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVHJlbmRpbmdQcm9kdWN0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/WhoWeAre/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2hvV2VBcmUvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/WhoWeAre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2hvV2VBcmUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/ProductDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdERldGFpbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Shared/_ProductsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qcm9kdWN0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Molla-Backend_Register_Logout/Molla-Backend/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-75h3vf0wh8

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{C54089D6-4EE6-4FCF-845D-23EEE5B19128}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Molla-Backend/Views/Shared/_ValidationScriptsPartial.cshtml">
+    <Files>
+      <File FileName="Molla-Backend/Program.cs" Line="24" Column="11" />
+      <File FileName="Molla-Backend/Models/AppUser.cs" Line="8" Column="45" />
+      <File FileName="Molla-Backend/Data/AppDbContext.cs" Line="7" Column="56" />
+      <File FileName="Molla-Backend/Controllers/AccountController.cs" Line="8" Column="40" />
+      <File FileName="Molla-Backend/ViewModels/Account/RegisterVM.cs" Line="20" Column="51" />
+      <File FileName="Molla-Backend/Views/Account/SignUp.cshtml" Line="95" Column="45" />
+      <File FileName="Molla-Backend/Views/Shared/_Layout.cshtml" Line="379" Column="48" />
+      <File FileName="Molla-Backend/Views/Shared/_ValidationScriptsPartial.cshtml" Line="2" Column="100" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Molla-Backend" expanded="True">
+            <Node name="Molla-Backend" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Account" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_ValidationScriptsPartial.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Molla-Backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
